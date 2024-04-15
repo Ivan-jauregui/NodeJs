@@ -1,0 +1,5 @@
+-La función replace de JavaScript se utiliza para buscar todas las coincidencias de un patrón. En etse caso utilize /\((.*?)\)/g que nos ayud a abuscar todas las palabras ofrases entre parentesis
+
+-El patrón /.../ se utiliza para definir patrones de búsqueda en cadenas de texto. En este caso busca un paréntesis de apertura ( , cualquier cantidad de caracteres (.*?) y dsp un paréntesis de cierre )
+
+- el 'g' al final de la cadena significa que no debe parar en la primera coincidencia, sino que se debe buscar en toda la cadena
